@@ -1,0 +1,15 @@
+.puppies {
+  display: flex;
+  flex-direction: column;
+  border: ridge 3px aliceblue;
+  margin: 5px;
+}
+
+.pupImg {
+  max-width: 200px;
+}
+
+#main {
+  display: flex;
+
+}
